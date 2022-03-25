@@ -1,6 +1,7 @@
 # Learning-Tech-Writing
 To help me learn all things technical writing related
 
+---
 ## GitHub steps
 1. `git branch`: Create new branch to make changes
 2. `git checkout branch`: Brings you to the branch that you list
