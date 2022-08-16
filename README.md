@@ -1,8 +1,8 @@
-# Learning-Tech-Writing
-To help me learn all things technical writing related
+# Joanne's journey to learning Git and GitHub
+To help me learn all things technical writing related! 
 
 ---
-## GitHub steps
+## Steps to making and pushing changes
 1. `git branch`: Create new branch to make changes
 2. `git checkout branch`: Brings you to the branch that you list
 
@@ -11,3 +11,9 @@ To help me learn all things technical writing related
 4. `git add .`: Stages changes 
 5. `git commit -m "message"`: Commits changes
 6. `git push origin branchname`: Pushes changes to the GitHub repo 
+
+## Other Git commands
+- `git pull`: Pulls all changes from GitHub down to the local clone
+
+## Terms
+- Local: personal computer folders
